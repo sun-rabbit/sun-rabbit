@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sun-rabbit">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&pause=900&color=FF4FCB&center=true&vCenter=true&width=850&height=75&lines=%F0%9F%90%B0+Hi%EF%BC%8CI%27m+Sun+Rabbit;%F0%9F%92%BB+Python+Developer;%F0%9F%91%81%EF%B8%8F+Computer+Vision+Explorer;%F0%9F%A4%96+Robotics+%26+Industrial+Automation;%E2%9C%A8+Code+Like+A+Girl%2C+Build+Like+A+Queen!"
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=900&color=FF4FCB&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%90%B0+Hi%EF%BC%8CI%27m+Sun+Rabbit;%F0%9F%92%BB+Python+Developer;%F0%9F%91%81%EF%B8%8F+Computer+Vision+Explorer;%F0%9F%A4%96+Robotics+%26+Industrial+Automation;%E2%9C%A8+Code+Like+A+Girl%2C+Build+Like+A+Queen!"
     alt="Typing SVG"
   />
 </a>
@@ -26,18 +26,15 @@
 />
 
 <img
-  src="https://img.shields.io/badge/STATUS-CODING-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-  alt="Coding"
-/>
-
-<img
-  src="https://img.shields.io/badge/ENERGY-100%25-FF4FCB?style=for-the-badge"
-  alt="Energy"
+  src="https://img.shields.io/badge/STATUS-BUILDING%20SOMETHING%20COOL-38BDF8?style=for-the-badge"
+  alt="Status"
 />
 
 </div>
 
 <br>
+
+---
 
 <div align="center">
 
@@ -45,11 +42,11 @@
 
 ### 🐰 你好，我是兔子大王
 
-热爱代码、设计与智能设备的 Python 开发者。
+一名喜欢技术、设计与智能设备的 Python 开发者。
 
-专注于 **机器视觉、机器人控制、工业自动化与人工智能应用**。
+专注于 **机器视觉、机器人控制、工业自动化和人工智能应用**。
 
-喜欢把复杂技术做成真正能运行、能交互、又足够漂亮的产品。
+我喜欢把复杂的技术，做成真正能够运行、交互和落地的产品。
 
 <br>
 
@@ -58,6 +55,8 @@
 </div>
 
 <br>
+
+---
 
 <div align="center">
 
@@ -119,6 +118,9 @@
 
 <br>
 
+---
+
+<!-- 大型霓虹能力矩阵 -->
 <div align="center">
 
 <img
@@ -131,108 +133,137 @@
 
 <br>
 
+---
+
 <div align="center">
 
-# ✦ MY DEVELOPMENT DIRECTION ✦
+# ✦ FEATURED PROJECTS ✦
+
+### 🤖 PQControl · 机械臂与机器视觉控制平台
+
+面向工业自动化应用的可视化控制平台。
+
+支持机械臂、机器视觉、PLC、串口设备及智能流程编排。
 
 <img
-  src="https://img.shields.io/badge/Computer%20Vision-目标检测与图像识别-FF2E93?style=for-the-badge"
-  alt="Computer Vision"
+  src="https://img.shields.io/badge/Python-PQControl-FF2E93?style=for-the-badge&logo=python&logoColor=white"
+  alt="Python"
 />
 
 <img
-  src="https://img.shields.io/badge/Industrial%20Automation-工业自动化与设备控制-A855F7?style=for-the-badge"
-  alt="Industrial Automation"
-/>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/Robotics-机械臂与机器人视觉-38BDF8?style=for-the-badge"
-  alt="Robotics"
+  src="https://img.shields.io/badge/Robot-Control-A855F7?style=for-the-badge&logo=ros&logoColor=white"
+  alt="Robot Control"
 />
 
 <img
-  src="https://img.shields.io/badge/AI%20Applications-人工智能应用-FF4FCB?style=for-the-badge"
-  alt="AI Applications"
+  src="https://img.shields.io/badge/Machine-Vision-38BDF8?style=for-the-badge&logo=opencv&logoColor=white"
+  alt="Machine Vision"
 />
 
-<br><br>
+<br><br><br>
+
+### 👁️ AI Vision · 工业视觉检测应用
+
+使用 YOLO、OpenCV 和深度学习模型完成目标检测、缺陷检测与视觉定位。
+
+覆盖模型训练、推理接口、工业相机接入和现场部署。
 
 <img
-  src="https://img.shields.io/badge/Desktop%20Software-PyQt6%20桌面软件开发-8B5CF6?style=for-the-badge"
-  alt="Desktop Software"
+  src="https://img.shields.io/badge/YOLO-Object%20Detection-FF4FCB?style=for-the-badge"
+  alt="Object Detection"
 />
 
 <img
-  src="https://img.shields.io/badge/Backend-FastAPI%20后端服务-22D3EE?style=for-the-badge"
-  alt="Backend"
+  src="https://img.shields.io/badge/OpenCV-Image%20Processing-8B5CF6?style=for-the-badge&logo=opencv&logoColor=white"
+  alt="OpenCV"
+/>
+
+<img
+  src="https://img.shields.io/badge/FastAPI-Inference%20Service-22D3EE?style=for-the-badge&logo=fastapi&logoColor=white"
+  alt="FastAPI"
+/>
+
+<br><br><br>
+
+### 🎙️ Intelligent Interaction · 智能语音交互系统
+
+集成语音唤醒、语音识别、大模型对话、语音合成与设备控制。
+
+用于工业助手、智能终端和本地离线交互场景。
+
+<img
+  src="https://img.shields.io/badge/Voice-AI%20Interaction-FF2E93?style=for-the-badge"
+  alt="Voice AI"
+/>
+
+<img
+  src="https://img.shields.io/badge/LLM-Local%20Intelligence-A855F7?style=for-the-badge"
+  alt="LLM"
+/>
+
+<img
+  src="https://img.shields.io/badge/MQTT-Device%20Control-38BDF8?style=for-the-badge&logo=mqtt&logoColor=white"
+  alt="MQTT"
 />
 
 </div>
 
 <br>
 
+---
+
 <div align="center">
 
-# ✦ CURRENT MISSION ✦
+# ✦ CURRENTLY EXPLORING ✦
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/01-AI%20AGENT-FF2E93?style=for-the-badge"
+  alt="AI Agent"
+/>
+
+<img
+  src="https://img.shields.io/badge/02-PREDICTIVE%20MAINTENANCE-A855F7?style=for-the-badge"
+  alt="Predictive Maintenance"
+/>
+
+<img
+  src="https://img.shields.io/badge/03-MULTIMODAL%20INTERACTION-38BDF8?style=for-the-badge"
+  alt="Multimodal Interaction"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/04-ROBOT%20VISION-FF4FCB?style=for-the-badge"
+  alt="Robot Vision"
+/>
+
+<img
+  src="https://img.shields.io/badge/05-EDGE%20AI-8B5CF6?style=for-the-badge"
+  alt="Edge AI"
+/>
+
+<img
+  src="https://img.shields.io/badge/06-DIGITAL%20TWIN-22D3EE?style=for-the-badge"
+  alt="Digital Twin"
+/>
 
 </div>
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 👁️ AI VISION
-
-目标检测  
-图像识别  
-工业缺陷检测  
-图像处理  
-模型训练与部署  
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 ROBOTICS
-
-机械臂控制  
-机器人视觉引导  
-智能抓取  
-路径规划  
-ROS 应用开发  
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ AUTOMATION
-
-PLC 数据交互  
-MQTT 设备通信  
-工业协议对接  
-自动化流程控制  
-设备状态监控  
-
-</td>
-
-</tr>
-</table>
-
 <br>
+
+---
 
 <div align="center">
 
 # ✦ DEVELOPER ENERGY ✦
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=FF4FCB&center=true&vCenter=true&width=800&height=90&lines=Soft+Heart%2C+Strong+Mind.;Dream+It.+Code+It.+Build+It.;Keep+Coding%2C+Keep+Shining.;She+Can+Code.+She+Can+Create."
+  src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FF4FCB&center=true&vCenter=true&width=850&height=100&lines=Soft+Heart%2C+Strong+Mind.;Dream+It.+Code+It.+Build+It.;Keep+Coding%2C+Keep+Shining.;She+Can+Code.+She+Can+Create."
   alt="Developer Energy"
 />
-
-<br>
 
 🌸 温柔不是软弱，浪漫也可以与技术并存。
 
@@ -242,45 +273,7 @@ MQTT 设备通信
 
 <br>
 
-<div align="center">
-
-# ✦ MY CODE WORLD ✦
-
-<img
-  src="https://img.shields.io/badge/Python-95%25-FF2E93?style=for-the-badge&logo=python&logoColor=white"
-  alt="Python"
-/>
-
-<img
-  src="https://img.shields.io/badge/Computer%20Vision-90%25-A855F7?style=for-the-badge&logo=opencv&logoColor=white"
-  alt="Computer Vision"
-/>
-
-<img
-  src="https://img.shields.io/badge/Industrial%20Automation-88%25-38BDF8?style=for-the-badge"
-  alt="Industrial Automation"
-/>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/Robotics-85%25-FF4FCB?style=for-the-badge&logo=ros&logoColor=white"
-  alt="Robotics"
-/>
-
-<img
-  src="https://img.shields.io/badge/AI%20Applications-86%25-8B5CF6?style=for-the-badge"
-  alt="AI Applications"
-/>
-
-<img
-  src="https://img.shields.io/badge/Desktop%20Development-92%25-22D3EE?style=for-the-badge&logo=qt&logoColor=white"
-  alt="Desktop Development"
-/>
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
@@ -303,7 +296,7 @@ MQTT 设备通信
   alt="Made with Love and Code"
 />
 
-<br><br>
+<br><br><br>
 
 ### 🐰 Thanks for visiting my universe
 
