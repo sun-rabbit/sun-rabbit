@@ -19,7 +19,7 @@
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -29,17 +29,15 @@
 
 一名热爱技术、设计与智能设备的 Python 开发者。
 
-专注于 **机器视觉、机器人控制、工业自动化与人工智能应用**。
+专注于 **机器视觉、机械臂、工业自动化与人工智能应用**。
 
 喜欢把复杂的技术，做成真正能够运行、交互和落地的产品。
-
-<br>
 
 > ✨ 用代码连接现实，让想法真正运行起来。
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -78,7 +76,7 @@
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -90,7 +88,7 @@
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -100,7 +98,9 @@
 
 **机械臂与机器视觉控制平台**
 
-面向工业自动化应用的可视化控制平台，支持机械臂、机器视觉、PLC、串口设备及自动化流程控制。
+面向工业自动化场景的可视化控制平台。
+
+支持机械臂、机器视觉、PLC、串口设备和自动化流程控制。
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-PQControl-FF2E93?style=flat-square&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/Robot-Control-A855F7?style=flat-square&logo=ros&logoColor=white" alt="Robot Control"><img src="https://img.shields.io/badge/Machine-Vision-38BDF8?style=flat-square&logo=opencv&logoColor=white" alt="Machine Vision">
@@ -114,6 +114,8 @@
 
 使用 YOLO、OpenCV 和深度学习模型完成目标检测、缺陷检测、图像处理与视觉定位。
 
+覆盖模型训练、推理服务、工业相机接入和现场部署。
+
 <p align="center">
   <img src="https://img.shields.io/badge/YOLO-Object%20Detection-FF4FCB?style=flat-square" alt="Object Detection"><img src="https://img.shields.io/badge/OpenCV-Image%20Processing-8B5CF6?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"><img src="https://img.shields.io/badge/FastAPI-Inference%20Service-22D3EE?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
@@ -124,7 +126,9 @@
 
 **智能语音与设备交互系统**
 
-集成语音唤醒、语音识别、大模型对话、语音合成与工业设备控制能力。
+集成语音唤醒、语音识别、大模型对话、语音合成与工业设备控制。
+
+适用于工业助手、本地智能终端和离线交互场景。
 
 <p align="center">
   <img src="https://img.shields.io/badge/Voice-AI%20Interaction-FF2E93?style=flat-square" alt="Voice AI"><img src="https://img.shields.io/badge/LLM-Local%20Intelligence-A855F7?style=flat-square" alt="LLM"><img src="https://img.shields.io/badge/MQTT-Device%20Control-38BDF8?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
@@ -132,7 +136,7 @@
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -144,7 +148,31 @@
 
 </div>
 
-<br>
+---
+
+<div align="center">
+
+## ✦ CONTRIBUTION SNAKE ✦
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-snake-contrib/github-contribution-grid-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile-snake-contrib/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    src="./profile-snake-contrib/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -155,37 +183,13 @@
   alt="Developer Energy"
 />
 
-🌸 温柔不是软弱，浪漫也可以与技术并存。
+🌸 
 
 ✨ I don't just write code. I build possibilities.
 
 </div>
 
-<br>
-
-<div align="center">
-
-## ✦ CONTRIBUTION SNAKE ✦
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sun-rabbit/sun-rabbit/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sun-rabbit/sun-rabbit/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    width="100%"
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/sun-rabbit/sun-rabbit/output/github-contribution-grid-snake.svg"
-  >
-</picture>
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
@@ -197,15 +201,11 @@
   </a><img src="https://img.shields.io/badge/Python-DEVELOPER-A855F7?style=flat-square&logo=python&logoColor=white" alt="Python Developer"><img src="https://img.shields.io/badge/MADE%20WITH-LOVE%20%26%20CODE-38BDF8?style=flat-square" alt="Made with Love and Code">
 </p>
 
-<br>
-
 ### 🐰 Thanks for visiting my universe
 
 ⭐ Welcome to follow my projects and watch me build something amazing
 
 </div>
-
-<br>
 
 <img
   width="100%"
