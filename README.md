@@ -1,156 +1,142 @@
 <div align="center">
 
-<!-- 顶部动态波浪 -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,40:C471ED,70:8A5CF6,100:4FACFE&height=220&section=header&text=Hi%20There!%20I'm%20Sun%20Rabbit%20🐰&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20%7C%20Computer%20Vision%20%7C%20Industrial%20Automation&descAlignY=58&descSize=17"/>
+<!-- 顶部霓虹封面 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FF2E93,45:A855F7,100:38BDF8&text=SUN%20RABBIT&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&stroke=FFFFFF&strokeWidth=2&desc=AI%20VISION%20%C2%B7%20ROBOTICS%20%C2%B7%20INDUSTRIAL%20AUTOMATION&descSize=18&descAlignY=63"/>
 
 <!-- 动态打字 -->
-
 <a href="https://github.com/sun-rabbit">
-  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&weight=600&size=26&pause=1000&color=FF69D4&center=true&vCenter=true&random=false&width=750&height=70&lines=%F0%9F%90%B0+Hello%EF%BC%8C%E6%88%91%E6%98%AF%E5%85%94%E5%AD%90%E5%A4%A7%E7%8E%8B;%F0%9F%92%BB+Python+%E5%BC%80%E5%8F%91%E8%80%85;%F0%9F%A4%96+%E4%B8%93%E6%B3%A8%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E4%B8%8E%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96;%F0%9F%8C%88+Keep+Coding%2C+Keep+Shining!;%E2%9C%A8+Code+Like+A+Girl%2C+Build+Like+A+Queen!" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&pause=900&color=FF4FCB&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%90%B0+Hi%EF%BC%8CI%27m+Sun+Rabbit;%F0%9F%92%BB+Python+Developer;%F0%9F%91%81%EF%B8%8F+Computer+Vision+Explorer;%F0%9F%A4%96+Robotics+%26+Industrial+Automation;%E2%9C%A8+Code+Like+A+Girl%2C+Build+Like+A+Queen!"
+    alt="Typing SVG"
+  />
 </a>
 
 <br>
 
-<!-- 访问量与状态徽章 -->
-
-<img src="https://komarev.com/ghpvc/?username=sun-rabbit&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sun-rabbit?label=FOLLOWERS&style=for-the-badge&color=a855f7&labelColor=1f1635" />
-<img src="https://img.shields.io/badge/STATUS-CODING-4FACFE?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/ENERGY-100%25-FF6FD8?style=for-the-badge&logo=sparkles&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌸 About Me · 关于我
+<!-- 状态徽章 -->
+<img src="https://komarev.com/ghpvc/?username=sun-rabbit&label=PROFILE%20VIEWS&color=ff2e93&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/sun-rabbit?label=FOLLOWERS&style=for-the-badge&color=a855f7&labelColor=191124">
+<img src="https://img.shields.io/badge/STATUS-CODING-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/ENERGY-100%25-FF4FCB?style=for-the-badge&logo=sparkles&logoColor=white">
 
 </div>
-
-<img align="right" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun-rabbit&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&bg_color=15,21152b,38165c&title_color=ff78d1&text_color=ffffff&icon_color=7dd3fc"/>
-
-```python
-class SunRabbit:
-
-    name = "兔子大王 🐰"
-
-    role = "Python Developer"
-
-    focus = [
-        "机器视觉",
-        "工业自动化",
-        "机器人控制",
-        "人工智能应用",
-        "桌面软件开发"
-    ]
-
-    personality = [
-        "热爱创造",
-        "喜欢折腾",
-        "持续学习",
-        "认真且浪漫"
-    ]
-
-    motto = "用代码连接现实，让想法真正运行起来。"
-```
 
 <br>
 
-* 🎀 一名热爱技术、设计和创造的开发者
-* 🐍 长期使用 **Python** 进行本地项目开发
-* 👁️ 专注于 **机器视觉、目标检测、图像处理**
-* 🤖 探索 **机械臂、PLC、ROS 和工业自动化**
-* 🧠 关注 **人工智能、语音交互与智能控制**
-* 💫 喜欢把复杂技术做成简单、漂亮、可使用的产品
-
-<br clear="both">
-
----
-
 <div align="center">
 
-## 💎 Technology Stack · 技术栈
+## ✦ ABOUT ME ✦
 
-### 👑 Core Skills
+### 🐰 你好，我是兔子大王
 
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,fastapi,flask&theme=dark" />
+热爱代码、设计与智能设备的 Python 开发者。
 
-### 🛠️ Development Tools
+专注于机器视觉、机器人控制、工业自动化与人工智能应用。
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,docker,postman&theme=dark" />
-
-### 🌐 Systems & Platforms
-
-<img src="https://skillicons.dev/icons?i=ubuntu,windows,linux,raspberrypi,qt,html,css,js&theme=dark" />
+我喜欢把复杂的技术，做成真正能运行、能交互、又足够漂亮的产品。
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-A855F7?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-FF4F81?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-8B5CF6?style=for-the-badge&logo=yolo&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E954B7?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS-6D5DFB?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/Qt-41CD9D?style=for-the-badge&logo=qt&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-4FACFE?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+> ✨ 用代码连接现实，让想法真正运行起来。
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🚀 What I'm Building · 我的开发方向
+## ✦ MY TECHNOLOGY UNIVERSE ✦
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,qt&theme=dark&perline=7">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,docker,git,github&theme=dark&perline=7">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=ubuntu,windows,linux,vscode,pycharm,postman,raspberrypi&theme=dark&perline=7">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/YOLO-FF2E93?style=for-the-badge&logo=yolo&logoColor=white">
+<img src="https://img.shields.io/badge/ROS-A855F7?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/MQTT-38BDF8?style=for-the-badge&logo=mqtt&logoColor=white">
+<img src="https://img.shields.io/badge/Node--RED-FF4FCB?style=for-the-badge&logo=nodered&logoColor=white">
+<img src="https://img.shields.io/badge/PLC-8B5CF6?style=for-the-badge&logo=siemens&logoColor=white">
+
+</div>
+
+<br>
+
+<div align="center">
+
+## ✦ WHAT I BUILD ✦
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 👁️ Computer Vision
+### 👁️ AI VISION
 
-* 目标检测与图像识别
-* YOLO 模型训练与部署
-* OpenCV 图像处理
-* 工业缺陷检测
-* 手势与人体关键点识别
+目标检测与图像识别
+
+YOLO 模型训练与部署
+
+OpenCV 图像处理
+
+工业缺陷检测
+
+手势与关键点识别
 
 </td>
-<td width="50%" valign="top">
 
-### 🤖 Industrial Automation
+<td width="50%" align="center">
 
-* 机械臂流程控制
-* PLC 数据交互
-* ROS 机器人开发
-* MQTT 设备通信
-* 智能产线与数字化控制
+### 🤖 ROBOTICS
+
+机械臂流程控制
+
+机器人视觉引导
+
+ROS 机器人开发
+
+智能抓取与路径规划
+
+数字化产线控制
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🧠 Artificial Intelligence
+### ⚡ AUTOMATION
 
-* 智能语音交互
-* 本地大模型应用
-* 预测性维护
-* 多模态智能应用
-* AI Agent 与工具调用
+PLC 数据交互
+
+MQTT 设备通信
+
+工业协议对接
+
+
+设备状态监控
 
 </td>
-<td width="50%" valign="top">
 
-### 💻 Software Development
+<td width="50%" align="center">
 
-* PyQt6 桌面应用
-* FastAPI 后端服务
-* 可视化数据大屏
-* Node-RED 流程编排
-* Windows / Ubuntu 部署
+### 🧠 AI APPLICATIONS
+
+智能语音交互
+
+本地大模型应用
+
+AI Agent 工具调用
+
+预测性维护
+
+多模态智能应用
 
 </td>
 </tr>
@@ -158,90 +144,67 @@ class SunRabbit:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 📊 GitHub Analytics · 数据统计
+## ✦ CURRENT MISSION ✦
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sun-rabbit&show_icons=true&hide_border=true&border_radius=18&theme=tokyonight&bg_color=15,21152b,38165c&title_color=ff78d1&icon_color=7dd3fc&text_color=ffffff&ring_color=ff69b4" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sun-rabbit&theme=tokyonight&hide_border=true&border_radius=18&background=21152B&ring=FF69B4&fire=A855F7&currStreakLabel=7DD3FC&sideLabels=FF78D1&dates=FFFFFF" />
+<img src="https://img.shields.io/badge/Computer%20Vision-90%25-FF2E93?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python%20Development-95%25-A855F7?style=for-the-badge">
 
 <br><br>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sun-rabbit&bg_color=21152b&color=ff78d1&line=a855f7&point=7dd3fc&area=true&hide_border=true&radius=16&custom_title=Sun%20Rabbit's%20Contribution%20Galaxy" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies · 成就墙
-
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=sun-rabbit&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=10&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake · 贡献贪吃蛇
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sun-rabbit/sun-rabbit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sun-rabbit/sun-rabbit/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sun-rabbit/sun-rabbit/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌙 Developer Mood · 今日状态
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Developer Joke" />
+<img src="https://img.shields.io/badge/Industrial%20Automation-88%25-38BDF8?style=for-the-badge">
+<img src="https://img.shields.io/badge/Robotics-85%25-FF4FCB?style=for-the-badge">
 
 <br><br>
 
-> 🌸 温柔并不代表软弱，浪漫也可以与代码并存。
->
-> ✨ Keep coding, keep creating, keep shining.
+<img src="https://img.shields.io/badge/Currently%20Exploring-AI%20Agent-8B5CF6?style=for-the-badge&logo=openai&logoColor=white">
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 💌 Connect With Me
+## ✦ DEVELOPER ENERGY ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=FF4FCB&center=true&vCenter=true&width=750&height=80&lines=Soft+Heart%2C+Strong+Mind.;Dream+It.+Code+It.+Build+It.;Keep+Coding%2C+Keep+Shining.;She+Can+Code.+She+Can+Create." alt="Developer Energy">
+
+<br>
+
+🌸 温柔不是软弱，浪漫也可以与技术并存。
+
+✨ I don't just write code. I build possibilities.
+
+</div>
+
+<br>
+
+<div align="center">
+
+## ✦ CONNECT WITH ME ✦
 
 <a href="https://github.com/sun-rabbit">
-  <img src="https://img.shields.io/badge/GitHub-Sun_Rabbit-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-SUN%20RABBIT-FF2E93?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Python-DEVELOPER-A855F7?style=for-the-badge&logo=python&logoColor=white">
 
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://img.shields.io/badge/MADE%20WITH-LOVE%20%26%20CODE-38BDF8?style=for-the-badge&logo=heart&logoColor=white">
 
 </div>
 
-<!-- 底部动态波浪 -->
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,35:8A5CF6,65:C471ED,100:FF6FD8&height=150&section=footer&animation=fadeIn"/>
+<!-- 底部霓虹波浪 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:38BDF8,50:A855F7,100:FF2E93&animation=twinkling">
 
 <div align="center">
 
-### 🐰 Thanks for visiting my profile!
+### 🐰 Thanks for visiting my universe
 
-### ⭐ 欢迎关注我的项目，和我一起创造有趣的东西
+#### ⭐ Welcome to follow my projects and watch me build something amazing
 
 </div>
