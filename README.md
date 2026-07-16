@@ -48,10 +48,9 @@
 
 <!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/jobs.png" /> -->
 
-<p>&emsp;&emsp;嗨，你好，我是王文杰。热爱天文、摄影、编程、读书、旅行。</p>
+<p>&emsp;&emsp;兔子大王，热爱摄影、编程、旅行。</p>
 <p>&emsp;&emsp;Hi, I’m Wenjie Wang. I’m passionate about astronomy, photography, programming, reading, 和 traveling.</p>
-<!-- <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<!-- <p>&emsp;&emsp;美好的世界让我更美好</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p> -->
 
 </td></tr>
@@ -68,19 +67,6 @@
   - 工作岗位：软件研发工程师
   - 工作内容：软件开发与维护
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：一些杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
 
 </td></tr>
 -->
